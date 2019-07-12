@@ -1,6 +1,8 @@
 x=int(input())
-mod= num%2
-if mod >0:
+if x<0:
   print("invalid")
- elif:
-  print("valid"
+else;
+  if x%2==0:
+  print("Even")
+ else: 
+  print("Odd")
