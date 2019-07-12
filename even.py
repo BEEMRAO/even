@@ -3,6 +3,6 @@ if x<0:
   print("invalid")
 else;
   if x%2==0:
-  print("Even")
+      print("Even")
  else: 
-  print("Odd")
+      print("Odd")
