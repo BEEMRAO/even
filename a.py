@@ -1,2 +1,2 @@
 a=input()
-print("".join(reverse(a)))
+print("".join(reversed(a)))
