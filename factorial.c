@@ -4,7 +4,7 @@ int main()
   int factorial=1;
   int x,i;
     scanf("%d",&x);
-  if(x<20)
+  if(x<=20)
   {
     for(i=1;i<=x;i++)
   {
